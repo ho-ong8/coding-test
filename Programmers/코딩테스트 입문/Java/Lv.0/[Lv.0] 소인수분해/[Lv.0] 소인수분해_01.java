@@ -1,0 +1,28 @@
+import java.util.*;
+
+class Solution {
+    public int[] solution(int n) {
+        // set 생성 (중복 제거)
+        Set<Integer> set = new HashSet<>();
+        int cnt = 2;
+
+        // 소인수 구하기
+        while (n >= 2) {
+            // 소수 구하기
+            // n을 cnt로 나눴을 때, 나머지가 0일 경우
+            if (n % cnt == 0) {
+                // add(): 원소 추가
+                n /= cnt;
+                set.add(cnt);
+            } else {
+                cnt++;
+            }
+        }
+
+        // 세트 스트림 생성 -> 오름차순 정렬 -> mapToInt -> 배열 변환
+        // sorted(): 오름차순 정렬
+        // mapToInt(): IntStream 변환 (스트림 -> 기본형 스트림 (Integer -> int))
+        // toArray(): 배열 변환
+        return set.stream().sorted().mapToInt(Integer::intValue).toArray();
+    }
+}
