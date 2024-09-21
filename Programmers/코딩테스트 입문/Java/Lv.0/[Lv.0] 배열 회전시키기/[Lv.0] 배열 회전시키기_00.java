@@ -2,6 +2,7 @@ class Solution {
     public int[] solution(int[] numbers, String direction) {
         int[] answer = new int[numbers.length];
 
+        // equals(): 문자열 비교
         // 오른쪽으로 회전시킬 경우
         if (direction.equals("right")) {
             // answer 배열의 첫 번째 원소 = numbers 배열의 마지막 원소

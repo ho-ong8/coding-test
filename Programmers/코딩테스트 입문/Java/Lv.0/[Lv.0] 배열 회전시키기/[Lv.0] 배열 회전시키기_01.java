@@ -15,10 +15,12 @@ class Solution {
         // list 생성
         List<Integer> list = Arrays.stream(numbers).boxed().collect(Collectors.toList());
 
+        // equals(): 문자열 비교
         // 오른쪽으로 회전시킬 경우
         if (direction.equals("right")) {
             // add(): 원소 추가
             // remove(): 원소 삭제
+            // size(): 컬렉션 타입 길이 반환
             list.add(0, list.get(list.size() - 1));
             list.remove(list.size() - 1);
         // 왼쪽으로 회전시킬 경우

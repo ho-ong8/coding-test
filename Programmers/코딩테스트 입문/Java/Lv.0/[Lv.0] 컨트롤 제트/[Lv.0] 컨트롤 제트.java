@@ -6,6 +6,7 @@ class Solution {
         String[] str = s.split(" ");
 
         for (int i = 0; i < str.length; i++) {
+            // equals(): 문자열 비교
             // "Z"일 경우
             if (str[i].equals("Z")) {
                 // Integer.parseInt(): 정수 변환
