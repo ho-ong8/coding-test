@@ -9,14 +9,14 @@ class Solution {
             for (int j = 1; j <= i; j++) {
                 // i를 j로 나눴을 때, 나머지가 0일 경우
                 if (i % j == 0) {
-                    cnt += 1;
+                    cnt++;
                 }
             }
 
             // 합성수 구하기
             // 약수의 개수가 3개 이상일 경우
             if (cnt >= 3) {
-                answer += 1;
+                answer++;
             }
         }
 
