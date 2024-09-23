@@ -1,6 +1,6 @@
 class Solution {
     public int solution(String s) {
-        int answer = 0;
+        int answer = 0; // 머쓱이가 구한 값
 
         // split(): 문자열 분리
         String[] str = s.split(" ");

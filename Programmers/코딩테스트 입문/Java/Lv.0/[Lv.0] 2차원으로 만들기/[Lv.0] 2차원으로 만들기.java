@@ -1,6 +1,6 @@
 class Solution {
     public int[][] solution(int[] num_list, int n) {
-        // new int[행][열]
+        // 2차원 배열 = new int[행][열]
         int[][] answer = new int[num_list.length / n][n];
 
         for (int i = 0; i < num_list.length; i++) {
