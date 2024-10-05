@@ -7,7 +7,7 @@ class Solution {
             int start = n * i; // 시작
             int end = 0; // 마지막
 
-            // 문자열의 길이보다 크거나 같을 경우
+            // 문자열의 길이 이상일 경우
             if (start + n >= my_str.length()) {
                 end = my_str.length();
             } else {

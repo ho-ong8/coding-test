@@ -3,7 +3,7 @@ class Solution {
         int answer = 0; // 가장 큰 정수
         int fac = 1; // 팩토리얼
 
-        // 팩토리얼보다 크거나 같을 경우
+        // 팩토리얼 이상일 경우
         while (n >= fac) {
             answer++;
             fac *= answer;
