@@ -1,7 +1,7 @@
 class Solution {
     public int[] solution(int n) {
         // + 1 하는 이유?
-        // 입출력 예의 n이 15일 때, result의 배열 길이는 8이다.
+        // 입출력 예의 n이 15일 때, result의 배열의 길이는 8이다.
         // 15 / 2 = 7이므로 8이 나오려면 + 1 해야 한다.
         int[] answer = new int[(n + 1) / 2];
 
