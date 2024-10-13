@@ -9,7 +9,7 @@ class Solution {
         Arrays.sort(str); // 오름차순 정렬
 
         for (int i = 0; i < str.length; i++) {
-            int cnt = 0; // 한 번만 등장한 문자
+            int cnt = 0; // 문자 등장 횟수
 
             for (int j = 0; j < str.length; j++) {
                 // equals(): 문자열 비교
@@ -18,7 +18,7 @@ class Solution {
                 }
             }
 
-            // 한 번만 등장한 문자일 경우
+            // 문자 등장 횟수가 1일 경우
             if (cnt == 1) {
                 answer += str[i];
             }

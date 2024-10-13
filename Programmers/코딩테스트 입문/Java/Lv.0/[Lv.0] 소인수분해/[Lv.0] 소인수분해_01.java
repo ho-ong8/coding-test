@@ -4,19 +4,19 @@ class Solution {
     public int[] solution(int n) {
         // set 생성 (중복 제거)
         Set<Integer> set = new HashSet<>();
-        int cnt = 2; // 소인수
+        int num = 2; // 소인수
 
         // 소인수 구하기
         // 2 이상일 경우
         while (n >= 2) {
             // 소수 구하기
-            // n을 cnt로 나눴을 때, 나머지가 0일 경우
-            if (n % cnt == 0) {
+            // n을 num으로 나눴을 때, 나머지가 0일 경우
+            if (n % num == 0) {
                 // add(): 원소 추가
-                n /= cnt;
-                set.add(cnt);
+                n /= num;
+                set.add(num);
             } else {
-                cnt++;
+                num++;
             }
         }
 

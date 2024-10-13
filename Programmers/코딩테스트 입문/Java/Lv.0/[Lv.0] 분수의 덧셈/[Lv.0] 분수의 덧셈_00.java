@@ -24,6 +24,7 @@ class Solution {
         // 기약분수 = 분모와 분자 / 최대공약수
         answer[0] /= max;
         answer[1] /= max;
+
         return answer;
     }
 }
