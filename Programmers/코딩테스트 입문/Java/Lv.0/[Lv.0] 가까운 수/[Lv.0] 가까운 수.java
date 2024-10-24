@@ -2,10 +2,10 @@ import java.util.*;
 
 class Solution {
     public int solution(int[] array, int n) {
-        int answer = 0; // 가까운 수
         Arrays.sort(array); // 오름차순 정렬
+        int answer = 0; // 가까운 수
 
-        for (int i = 1; i < array.length; i++) {
+        for (int i = 0; i < array.length; i++) {
             // 최솟값 = n - 배열의 첫 번째 원소
             // 최솟값이 클 경우
             if (Math.abs(n - array[0]) > Math.abs(n - array[i])) {
