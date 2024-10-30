@@ -5,7 +5,7 @@ class Solution {
         int x = dots[0][0]; // x좌표
         int y = dots[0][1]; // y좌표
 
-        for (int i = 1; i < dots.length; i++) {
+        for (int i = 0; i < dots.length; i++) {
             // x좌표가 다를 경우
             if (x != dots[i][0]) {
                 w = Math.abs(x - dots[i][0]);
