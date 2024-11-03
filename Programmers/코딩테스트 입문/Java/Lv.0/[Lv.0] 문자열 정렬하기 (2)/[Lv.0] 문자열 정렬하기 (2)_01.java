@@ -5,7 +5,9 @@ class Solution {
         // toLowerCase(): 문자열 소문자 변환
         // toCharArray(): 문자 배열 변환
         char[] chr = my_string.toLowerCase().toCharArray();
+
         Arrays.sort(chr); // 오름차순 정렬
+
         return new String(chr);
     }
 }

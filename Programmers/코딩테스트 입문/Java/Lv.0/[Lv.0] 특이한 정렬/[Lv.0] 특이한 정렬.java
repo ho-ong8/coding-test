@@ -3,6 +3,7 @@ import java.util.*;
 class Solution {
     public int[] solution(int[] numlist, int n) {
         Arrays.sort(numlist); // 오름차순 정렬
+
         int[] answer = new int[numlist.length];
 
         // numlist[i] = 이전 원소, numlist[j] = 다음 원소

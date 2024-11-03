@@ -16,6 +16,7 @@ class Solution {
         }
 
         Arrays.sort(answer); // 오름차순 정렬
+
         return answer;
     }
 }

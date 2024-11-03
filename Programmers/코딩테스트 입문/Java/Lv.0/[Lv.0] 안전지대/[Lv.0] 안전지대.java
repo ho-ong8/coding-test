@@ -4,6 +4,7 @@ class Solution {
     public int solution(int[][] board) {
         // list 생성
         List<int[]> list = new ArrayList<>();
+
         int answer = 0; // 안전한 지역의 칸 수
         int[] x = {0, 1, -1, 0, -1, 1, 1, -1}; // x좌표
         int[] y = {1, 0, 0, -1, -1, 1, -1, 1}; // y좌표

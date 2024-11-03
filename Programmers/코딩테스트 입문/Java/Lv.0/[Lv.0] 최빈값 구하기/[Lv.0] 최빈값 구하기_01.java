@@ -4,6 +4,7 @@ class Solution {
     public int solution(int[] array) {
         // map 생성 (키, 값 저장)
         Map<Integer, Integer> map = new HashMap<>();
+
         int answer = 0; // 최빈값
         int max = 0; // 최댓값
 

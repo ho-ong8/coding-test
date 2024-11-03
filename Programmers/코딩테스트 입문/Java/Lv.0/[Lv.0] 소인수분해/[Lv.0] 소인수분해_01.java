@@ -4,6 +4,7 @@ class Solution {
     public int[] solution(int n) {
         // set 생성 (중복 제거)
         Set<Integer> set = new HashSet<>();
+
         int num = 2; // 소인수
 
         // 소인수 구하기

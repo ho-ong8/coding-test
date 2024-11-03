@@ -6,6 +6,7 @@ class Solution {
 
         // split(): 문자열 분리
         String[] str = s.split("");
+
         Arrays.sort(str); // 오름차순 정렬
 
         for (int i = 0; i < str.length; i++) {

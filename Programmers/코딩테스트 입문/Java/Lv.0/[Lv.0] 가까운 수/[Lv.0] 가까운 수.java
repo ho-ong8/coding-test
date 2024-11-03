@@ -3,6 +3,7 @@ import java.util.*;
 class Solution {
     public int solution(int[] array, int n) {
         Arrays.sort(array); // 오름차순 정렬
+
         int answer = 0; // 가까운 수
 
         for (int i = 0; i < array.length; i++) {
