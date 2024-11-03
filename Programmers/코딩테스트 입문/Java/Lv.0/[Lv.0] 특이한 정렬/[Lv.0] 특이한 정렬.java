@@ -11,6 +11,8 @@ class Solution {
                 // 이전 원소가 다음 원소 이하일 경우
                 if (Math.abs(n - numlist[i]) <= Math.abs(n - numlist[j])) {
                     int num = numlist[i];
+
+                    // 원소 바꾸기
                     numlist[i] = numlist[j];
                     numlist[j] = num;
                 }

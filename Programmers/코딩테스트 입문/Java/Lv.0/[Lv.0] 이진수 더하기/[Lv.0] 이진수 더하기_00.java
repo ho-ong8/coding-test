@@ -4,6 +4,7 @@ class Solution {
         // Integer.toBinaryString(): 2진수 변환
         int num1 = Integer.parseInt(bin1, 2);
         int num2 = Integer.parseInt(bin2, 2);
+
         return Integer.toBinaryString(num1 + num2);
     }
 }
