@@ -3,8 +3,8 @@ class Solution {
         String answer = ""; // k의 개수
 
         for (int a = i; a <= j; a++) {
-            // + "" 하는 이유?
-            // 문자열 변환 => 문자열 + 정수 = 문자열
+            // a + "" 하는 이유?
+            // 문자열 변환 => 정수 + 문자열 = 문자열
             answer += a + "";
         }
 

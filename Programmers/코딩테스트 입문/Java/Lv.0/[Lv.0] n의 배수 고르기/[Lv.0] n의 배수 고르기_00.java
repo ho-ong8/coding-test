@@ -11,7 +11,8 @@ class Solution {
         }
 
         int[] answer = new int[cnt];
-        cnt = 0;
+
+        cnt = 0; // 초기화
 
         // 배수의 배열 구하기
         for (int i = 0; i < numlist.length; i++) {

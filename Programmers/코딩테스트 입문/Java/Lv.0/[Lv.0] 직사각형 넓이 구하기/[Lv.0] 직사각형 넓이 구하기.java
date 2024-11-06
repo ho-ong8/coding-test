@@ -8,6 +8,7 @@ class Solution {
         for (int i = 0; i < dots.length; i++) {
             // x좌표가 다를 경우
             if (x != dots[i][0]) {
+                // Math.abs(): 절댓값 반환
                 w = Math.abs(x - dots[i][0]);
             // y좌표가 다를 경우
             } else if (y != dots[i][1]) {
