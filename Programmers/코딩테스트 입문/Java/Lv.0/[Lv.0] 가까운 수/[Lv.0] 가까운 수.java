@@ -16,6 +16,7 @@ class Solution {
         }
 
         answer = array[0];
+
         return answer;
     }
 }
