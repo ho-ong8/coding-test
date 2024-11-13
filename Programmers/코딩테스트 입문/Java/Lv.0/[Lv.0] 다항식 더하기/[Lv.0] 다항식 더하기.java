@@ -1,11 +1,12 @@
 class Solution {
     public String solution(String polynomial) {
         String answer = ""; // 동류항끼리 더한 결괏값
-        int x = 0; // 일차항
-        int num = 0; // 상수항
 
         // split(): 문자열 분리
         String[] str = polynomial.split(" ");
+
+        int x = 0; // 일차항
+        int num = 0; // 상수항
 
         for (int i = 0; i < str.length; i++) {
             // contains(): 문자열 포함 여부 확인
