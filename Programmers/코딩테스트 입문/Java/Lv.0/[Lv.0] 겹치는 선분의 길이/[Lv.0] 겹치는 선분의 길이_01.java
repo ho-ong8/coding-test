@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public int solution(int[][] lines) {
-        int[] num = new int[200];
+        int[] num = new int[200]; // 범위
 
         for (int i = 0; i < lines.length; i++) {
             int start = lines[i][0] + 100; // 시작

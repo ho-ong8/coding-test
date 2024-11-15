@@ -1,6 +1,7 @@
 class Solution {
     public long solution(String numbers) {
         // replace(target, replacement): 문자열을 다른 문자열로 치환
+        // 영어로 표기된 숫자
         numbers = numbers
             .replace("zero", "0")
             .replace("one", "1")

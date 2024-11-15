@@ -1,6 +1,6 @@
 class Solution {
     public String solution(int[] numLog) {
-        String answer = ""; // 입력받은 문자열
+        String answer = ""; // 조작
 
         for (int i = 1; i < numLog.length; i++) {
             // i = 1 -> numLog[1] - numLog[0] -> 1 - 0

@@ -1,5 +1,6 @@
 class Solution {
     public long solution(String numbers) {
+        // 영어로 표기된 숫자
         String[] num = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
         for (int i = 0; i < num.length; i++) {
