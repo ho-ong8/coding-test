@@ -2,6 +2,7 @@ class Solution {
     public int solution(String ineq, String eq, int n, int m) {
         int answer = 0;
 
+        // equals(): 문자열 비교
         if (ineq.equals(">")) {
             // ">", "="일 경우
             if (eq.equals("=")) {

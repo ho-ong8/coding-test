@@ -14,6 +14,7 @@ class Solution {
             }
         }
 
+        // equals(): 문자열 비교
         // 빈 문자열일 경우 "EMPTY", 아닐 경우 answer
         return "".equals(answer) ? "EMPTY" : answer;
     }
