@@ -15,7 +15,7 @@ class Solution {
             } else if (list.get(list.size() - 1) < arr[i]) {
                 list.add(arr[i]);
             } else {
-                // remove(): 원소 삭제
+                // remove(): 원소 제거
                 // size(): 컬렉션 타입 길이 반환
                 list.remove(list.size() - 1);
                 i--;

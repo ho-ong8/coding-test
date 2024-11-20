@@ -19,7 +19,7 @@ class Solution {
         // 오른쪽으로 회전시킬 경우
         if (direction.equals("right")) {
             // add(): 원소 추가
-            // remove(): 원소 삭제
+            // remove(): 원소 제거
             // size(): 컬렉션 타입 길이 반환
             list.add(0, list.get(list.size() - 1));
             list.remove(list.size() - 1);

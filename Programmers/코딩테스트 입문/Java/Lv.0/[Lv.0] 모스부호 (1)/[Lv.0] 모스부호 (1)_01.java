@@ -5,6 +5,7 @@ class Solution {
     public String solution(String letter) {
         // map 생성 (키, 값 저장)
         Map<String, String> map = new HashMap<>() {{
+            // put(): 키, 값 추가 및 변경
             put(".-", "a");
             put("-...", "b");
             put("-.-.", "c");
