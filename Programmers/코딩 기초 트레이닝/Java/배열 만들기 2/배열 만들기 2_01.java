@@ -10,7 +10,7 @@ class Solution {
             // Integer.toBinaryString(): 2진수 변환
             int num = Integer.parseInt(Integer.toBinaryString(i)) * 5; // 정수
 
-            // l 이상 r 이하일 경우
+            // l 이상이면서, r 이하일 경우
             if (l <= num && num <= r) {
                 // add(): 원소 추가
                 list.add(num);
