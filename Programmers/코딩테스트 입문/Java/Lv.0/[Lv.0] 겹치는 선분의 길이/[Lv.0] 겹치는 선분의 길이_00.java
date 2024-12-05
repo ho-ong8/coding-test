@@ -12,9 +12,9 @@ class Solution {
             }
         }
 
-        for (int n : num) {
+        for (int i = 0; i < num.length; i++) {
             // 1보다 클 경우
-            if (n > 1) {
+            if (num[i] > 1) {
                 answer++;
             }
         }

@@ -9,9 +9,9 @@ class Solution {
         // 사용 후 String 변환 => String.valueOf(), toString()
         StringBuilder sb = new StringBuilder();
 
-        for (int num : arr) {
+        for (int i = 0; i < arr.length; i++) {
             // append(): 문자열 추가
-            sb.append(num);
+            sb.append(arr[i]);
         }
 
         // indexOf(): 찾는 문자열이 있을 경우 인덱스 반환, 없을 경우 -1 반환
