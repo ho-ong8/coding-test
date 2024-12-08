@@ -41,6 +41,7 @@ class Solution {
             answer[0] = -1;
         } else {
             for (int i = 0; i < list.size(); i++) {
+                // get(): 원소 반환
                 answer[i] = list.get(i);
             }
         }

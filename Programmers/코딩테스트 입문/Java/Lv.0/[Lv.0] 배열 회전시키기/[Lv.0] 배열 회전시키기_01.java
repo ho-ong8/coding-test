@@ -20,6 +20,7 @@ class Solution {
         if (direction.equals("right")) {
             // add(): 원소 추가
             // remove(): 원소 제거
+            // get(): 원소 반환
             // size(): 컬렉션 타입 길이 반환
             list.add(0, list.get(list.size() - 1));
             list.remove(list.size() - 1);

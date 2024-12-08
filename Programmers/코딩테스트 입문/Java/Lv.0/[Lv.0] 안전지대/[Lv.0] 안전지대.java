@@ -23,6 +23,7 @@ class Solution {
 
         // size(): 컬렉션 타입 길이 반환
         for (int a = 0; a < list.size(); a++) {
+            // get(): 원소 반환
             int i1 = list.get(a)[0]; // 위험지역 x좌표
             int j1 = list.get(a)[1]; // 위험지역 y좌표
 
