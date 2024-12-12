@@ -11,7 +11,7 @@ class Solution {
 
         for (int i = 0; i < indices.length; i++) {
             // setCharAt(index, char): 문자를 다른 문자로 치환
-            sb.setCharAt(i, ' ');
+            sb.setCharAt(indices[i], ' ');
         }
 
         // replace(target, replacement): 문자열을 다른 문자열로 치환
