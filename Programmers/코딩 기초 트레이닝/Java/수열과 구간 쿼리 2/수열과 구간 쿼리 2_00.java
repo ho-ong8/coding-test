@@ -23,7 +23,7 @@ class Solution {
                 }
             }
 
-            // 특정 쿼리의 답이 존재하지 않을 경우 -1
+            // 특정 쿼리의 답이 존재하지 않을 경우
             if (answer[j] == Integer.MAX_VALUE) {
                 answer[j] = -1;
             }
