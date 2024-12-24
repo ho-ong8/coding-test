@@ -7,11 +7,11 @@ class Solution {
         for (int i = 0; i < num_list.length; i++) {
             // 11 이상일 경우
             if (num_list.length >= 11) {
-                sum += num_list[i];
-                answer = sum; // 합
+                sum += num_list[i]; // 합
+                answer = sum;
             } else {
-                mul *= num_list[i];
-                answer = mul; // 곱
+                mul *= num_list[i]; // 곱
+                answer = mul;
             }
         }
 
