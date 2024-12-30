@@ -13,8 +13,9 @@ class Solution {
             // 소수 구하기
             // n을 num으로 나눴을 때, 나머지가 0일 경우
             if (n % num == 0) {
-                // add(): 원소 추가
                 n /= num;
+
+                // add(): 원소 추가
                 set.add(num);
             } else {
                 num++;

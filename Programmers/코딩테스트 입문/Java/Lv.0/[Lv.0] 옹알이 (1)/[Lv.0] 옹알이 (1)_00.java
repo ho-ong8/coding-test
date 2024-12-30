@@ -10,7 +10,7 @@ class Solution {
             }
 
             // trim(): 문자열 공백 제거 (양쪽)
-            // 공백을 제거한 배열의 원소의 길이가 0일 경우
+            // 문자열의 길이가 0일 경우 (공백 제거)
             if (babbling[i].trim().length() == 0) {
                 answer++;
             }

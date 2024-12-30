@@ -13,10 +13,10 @@ class Solution {
             }
         }
 
-        // size(): 컬렉션 타입 길이 반환
-        String[] answer = new String[list.size()];
-
         // toArray(): 배열 변환
-        return list.toArray(answer);
+        // size(): 컬렉션 타입 길이 반환
+        String[] answer = list.toArray(new String[list.size()]);
+
+        return answer;
     }
 }
