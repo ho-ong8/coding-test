@@ -9,7 +9,7 @@
 
 ## 제한사항
 - 1 ≤ `indices`의 길이 < `my_string`의 길이 ≤ 100
-- `my_string`은 영소문자로만 이루어져 있습니다
+- `my_string`은 영소문자로만 이루어져 있습니다.
 - 0 ≤ `indices`의 원소 < `my_string`의 길이
 - `indices`의 원소는 모두 서로 다릅니다.
 

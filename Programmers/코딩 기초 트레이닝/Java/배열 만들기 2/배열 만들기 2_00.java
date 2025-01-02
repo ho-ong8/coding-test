@@ -34,6 +34,7 @@ class Solution {
 
         // isEmpty(): 문자열의 길이가 0일 경우 true 반환
         // size(): 컬렉션 타입 길이 반환
+        // 빈 리스트일 경우 1, 아닐 경우 리스트의 길이 반환
         int[] answer = new int[list.isEmpty() ? 1 : list.size()];
 
         // 빈 리스트일 경우
