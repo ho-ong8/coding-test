@@ -11,8 +11,6 @@ class Solution {
         BigInteger sum = big1.add(big2);
 
         // toString(): 문자열 변환
-        String answer = sum.toString();
-
-        return answer;
+        return sum.toString();
     }
 }
