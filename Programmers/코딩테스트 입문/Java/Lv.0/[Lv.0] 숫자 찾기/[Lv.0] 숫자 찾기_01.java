@@ -1,6 +1,6 @@
 class Solution {
     public int solution(int num, int k) {
-        // indexOf(): 찾는 문자열이 있을 경우 인덱스 반환, 없을 경우 -1 반환
+        // indexOf(): 문자열 시작 부분부터 찾는 문자열이 있을 경우 인덱스 반환, 없을 경우 -1 반환
         // String.valueOf(): 문자열 변환
         return ("-" + num).indexOf(String.valueOf(k));
 

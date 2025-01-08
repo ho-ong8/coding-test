@@ -15,7 +15,7 @@ class Solution {
             }
         }
 
-        // 2가 없을 경우
+        // 0일 경우
         if (cnt == 0) {
             return new int[] {-1};
         }
@@ -23,8 +23,6 @@ class Solution {
         // copyOfRange(array, startIndex, endIndex): startIndex(포함)부터 endIndex(불포함)까지 범위 내 배열 복사
         // get(): 원소 반환
         // size(): 컬렉션 타입 길이 반환
-        int[] answer = Arrays.copyOfRange(arr, list.get(0), list.get(list.size() - 1) + 1);
-
-        return answer;
+        return Arrays.copyOfRange(arr, list.get(0), list.get(list.size() - 1) + 1);
     }
 }

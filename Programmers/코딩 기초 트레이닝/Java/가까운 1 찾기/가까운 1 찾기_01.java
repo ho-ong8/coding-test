@@ -14,7 +14,7 @@ class Solution {
             sb.append(arr[i]);
         }
 
-        // indexOf(): 찾는 문자열이 있을 경우 인덱스 반환, 없을 경우 -1 반환
+        // indexOf(): 문자열 시작 부분부터 찾는 문자열이 있을 경우 인덱스 반환, 없을 경우 -1 반환
         return sb.toString().indexOf("1", idx);
     }
 }

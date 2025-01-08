@@ -11,8 +11,7 @@ class Solution {
         for (int i = 0; i < arr.length; i++) {
             // contains(): 문자열 포함 여부 확인
             if (!set.contains(arr[i])) {
-                answer[cnt] = arr[i];
-                cnt++;
+                answer[cnt++] = arr[i];
 
                 // add(): 원소 추가
                 set.add(arr[i]);

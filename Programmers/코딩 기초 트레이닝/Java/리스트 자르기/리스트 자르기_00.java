@@ -5,6 +5,8 @@ class Solution {
         // list 생성
         List<Integer> list = new ArrayList<>();
 
+        // [a, b, c]
+        // a = slicer[0], b = slicer[1], c = slicer[2]
         // n이 1일 경우
         if (n == 1) {
             for (int i = 0; i <= slicer[1]; i++) {

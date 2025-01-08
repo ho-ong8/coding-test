@@ -14,6 +14,7 @@ class Solution {
         }
 
         // poll(): 원소 제거
+        // 10000 x a + 100 x b + c
         return (queue.poll() * 10000) + (queue.poll() * 100) + queue.poll();
     }
 }
