@@ -6,10 +6,6 @@ class Solution {
         int mul = 2 * a * b;
 
         // a ⊕ b가 2 * a * b 이상일 경우 a ⊕ b, 아닐 경우 2 * a * b
-        if (sum >= mul) {
-            return sum;
-        } else {
-            return mul;
-        }
+        return sum >= mul ? sum : mul;
     }
 }

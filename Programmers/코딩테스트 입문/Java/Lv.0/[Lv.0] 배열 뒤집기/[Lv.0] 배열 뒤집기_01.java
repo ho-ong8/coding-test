@@ -21,7 +21,5 @@ class Solution {
         // mapToInt(): IntStream 변환 (스트림 -> 기본형 스트림 (Integer -> int))
         // toArray(): 배열 변환
         return list.stream().mapToInt(Integer::intValue).toArray();
-
-        // return list.stream().mapToInt(i -> i).toArray();
     }
 }

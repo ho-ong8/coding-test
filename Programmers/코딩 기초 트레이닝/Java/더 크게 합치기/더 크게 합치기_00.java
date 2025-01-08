@@ -6,10 +6,6 @@ class Solution {
         int ba = Integer.parseInt(String.valueOf(b) + String.valueOf(a));
 
         // a ⊕ b가 b ⊕ a 이상일 경우 a ⊕ b, 아닐 경우 b ⊕ a
-        if (ab >= ba) {
-            return ab;
-        } else {
-            return ba;
-        }
+        return ab >= ba ? ab : ba;
     }
 }
