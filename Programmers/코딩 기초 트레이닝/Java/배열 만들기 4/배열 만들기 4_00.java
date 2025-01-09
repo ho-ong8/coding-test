@@ -22,14 +22,9 @@ class Solution {
             }
         }
 
-        int[] stk = new int[list.size()];
-        int cnt = 0; // 인덱스
-
-        for (int i = 0; i < list.size(); i++) {
-            // get(): 원소 반환
-            stk[cnt++] = list.get(i);
-        }
-
-        return stk;
+        // 리스트 스트림 생성 -> mapToInt -> 배열 변환
+        // mapToInt(): IntStream 변환 (스트림 -> 기본형 스트림 (Integer -> int))
+        // toArray(): 배열 변환
+        return list.stream().mapToInt(Integer::intValue).toArray();
     }
 }

@@ -32,14 +32,13 @@ class Solution {
             }
         }
 
-        // isEmpty(): 문자열의 길이가 0일 경우 true 반환
         // size(): 컬렉션 타입 길이 반환
-        // 빈 리스트일 경우 1, 아닐 경우 리스트의 길이 반환
-        int[] answer = new int[list.isEmpty() ? 1 : list.size()];
+        int[] answer = new int[list.size()];
 
+        // isEmpty(): 문자열의 길이가 0일 경우 true 반환
         // 빈 리스트일 경우
         if (list.isEmpty()) {
-            answer[0] = -1;
+            return new int[] {-1};
         } else {
             for (int i = 0; i < list.size(); i++) {
                 // get(): 원소 반환

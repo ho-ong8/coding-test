@@ -21,13 +21,9 @@ class Solution {
             }
         }
 
-        int[] answer = new int[list.size()];
-
-        for (int i = 0; i < list.size(); i++) {
-            // get(): 원소 반환
-            answer[i] = list.get(i);
-        }
-
-        return answer;
+        // 리스트 스트림 생성 -> mapToInt -> 배열 변환
+        // mapToInt(): IntStream 변환 (스트림 -> 기본형 스트림 (Integer -> int))
+        // toArray(): 배열 변환
+        return list.stream().mapToInt(Integer::intValue).toArray();
     }
 }

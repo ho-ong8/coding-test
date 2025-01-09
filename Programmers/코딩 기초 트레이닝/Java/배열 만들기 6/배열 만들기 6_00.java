@@ -21,18 +21,10 @@ class Solution {
             }
         }
 
-        int[] answer = new int[list.size()];
-
-        // 리스트의 길이가 0일 경우
-        if (list.size() == 0) {
-            answer = new int[] {-1};
-        }
-
-        for (int i = 0; i < list.size(); i++) {
-            // get(): 원소 반환
-            answer[i] = list.get(i);
-        }
-
-        return answer;
+        // 리스트 스트림 생성 -> mapToInt -> 배열 변환
+        // mapToInt(): IntStream 변환 (스트림 -> 기본형 스트림 (Integer -> int))
+        // toArray(): 배열 변환
+        // isEmpty(): 문자열의 길이가 0일 경우 true 반환
+        return list.isEmpty() ? new int[] {-1} : list.stream().mapToInt(Integer::intValue).toArray();
     }
 }

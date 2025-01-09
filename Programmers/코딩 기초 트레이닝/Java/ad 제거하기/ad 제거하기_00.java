@@ -16,8 +16,6 @@ class Solution {
 
         // toArray(): 배열 변환
         // size(): 컬렉션 타입 길이 반환
-        String[] answer = list.toArray(new String[list.size()]);
-
-        return answer;
+        return list.toArray(new String[list.size()]);
     }
 }
