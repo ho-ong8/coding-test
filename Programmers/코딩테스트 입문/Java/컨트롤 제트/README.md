@@ -1,4 +1,4 @@
-# [Lv.0] 컨트롤 제트
+# 컨트롤 제트
 
 <br>
 
@@ -47,4 +47,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)
+[컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853)

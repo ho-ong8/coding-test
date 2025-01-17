@@ -1,4 +1,4 @@
-# [Lv.0] 팩토리얼
+# 팩토리얼
 
 <br>
 
@@ -32,4 +32,4 @@ i팩토리얼(i!)은 1부터 i까지 정수의 곱을 의미합니다. 예를 �
 <br>
 
 ## 링크
-[[Lv.0] 팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
+[팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848)

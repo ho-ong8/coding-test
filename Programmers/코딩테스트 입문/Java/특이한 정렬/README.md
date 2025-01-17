@@ -1,4 +1,4 @@
-# [Lv.0] 특이한 정렬
+# 특이한 정렬
 
 <br>
 
@@ -36,4 +36,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)
+[특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)

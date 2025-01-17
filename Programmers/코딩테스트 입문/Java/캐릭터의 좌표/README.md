@@ -1,4 +1,4 @@
-# [Lv.0] 캐릭터의 좌표
+# 캐릭터의 좌표
 
 <br>
 
@@ -38,4 +38,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)
+[캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861)

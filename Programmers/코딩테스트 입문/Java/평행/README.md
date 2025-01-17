@@ -1,4 +1,4 @@
-# [Lv.0] 평행
+# 평행
 
 <br>
 
@@ -39,4 +39,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
+[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875)

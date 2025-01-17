@@ -1,4 +1,4 @@
-# [Lv.0] 편지
+# 편지
 
 <br>
 
@@ -33,4 +33,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)
+[편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)
