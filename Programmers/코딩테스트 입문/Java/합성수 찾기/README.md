@@ -1,4 +1,4 @@
-# [Lv.0] 합성수 찾기
+# 합성수 찾기
 
 <br>
 
@@ -30,4 +30,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
+[합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)

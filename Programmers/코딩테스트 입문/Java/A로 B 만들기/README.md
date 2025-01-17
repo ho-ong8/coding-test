@@ -1,4 +1,4 @@
-# [Lv.0] A로 B 만들기
+# A로 B 만들기
 
 <br>
 
@@ -31,4 +31,4 @@
 <br>
 
 ## 링크
-[[Lv.0] A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)
+[A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886)

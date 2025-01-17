@@ -1,4 +1,4 @@
-# [Lv.0] OX퀴즈
+# OX퀴즈
 
 <br>
 
@@ -36,4 +36,4 @@
 <br>
 
 ## 링크
-[[Lv.0] OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)
+[OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)

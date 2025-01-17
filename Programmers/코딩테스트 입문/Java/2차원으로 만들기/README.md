@@ -1,4 +1,4 @@
-# [Lv.0] 2차원으로 만들기
+# 2차원으로 만들기
 
 <br>
 
@@ -37,4 +37,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)
+[2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842)

@@ -1,4 +1,4 @@
-# [Lv.0] 369게임
+# 369게임
 
 <br>
 
@@ -30,4 +30,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)
+[369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891)
