@@ -1,4 +1,4 @@
-# [Lv.0] 최댓값 만들기 (1)
+# 최댓값 만들기 (1)
 
 <br>
 
@@ -31,4 +31,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)
+[최댓값 만들기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847)

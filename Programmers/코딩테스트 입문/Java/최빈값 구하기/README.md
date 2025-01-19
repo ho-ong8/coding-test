@@ -1,4 +1,4 @@
-# [Lv.0] 최빈값 구하기
+# 최빈값 구하기
 
 <br>
 
@@ -35,4 +35,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
+[최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
