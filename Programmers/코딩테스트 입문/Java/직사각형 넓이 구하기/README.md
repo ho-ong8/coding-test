@@ -1,4 +1,4 @@
-# [Lv.0] 직사각형 넓이 구하기
+# 직사각형 넓이 구하기
 
 <br>
 
@@ -33,4 +33,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)
+[직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860)

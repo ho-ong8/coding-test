@@ -1,4 +1,4 @@
-# [Lv.0] 로그인 성공
+# 로그인 성공
 
 <br>
 
@@ -46,4 +46,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 로그인 성공](https://school.programmers.co.kr/learn/courses/30/lessons/120883)
+[로그인 성공](https://school.programmers.co.kr/learn/courses/30/lessons/120883)

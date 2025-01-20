@@ -1,4 +1,4 @@
-# [Lv.0] 삼각형의 완성조건 (2)
+# 삼각형의 완성조건 (2)
 
 <br>
 
@@ -45,4 +45,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)
+[삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868)

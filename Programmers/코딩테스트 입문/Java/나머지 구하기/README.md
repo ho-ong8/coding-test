@@ -1,4 +1,4 @@
-# [Lv.0] 나머지 구하기
+# 나머지 구하기
 
 <br>
 
@@ -31,4 +31,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)
+[나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810)

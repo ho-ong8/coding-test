@@ -1,4 +1,4 @@
-# [Lv.0] 나이 출력
+# 나이 출력
 
 <br>
 
@@ -31,4 +31,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)
+[나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820)
