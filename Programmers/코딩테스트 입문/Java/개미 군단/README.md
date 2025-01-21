@@ -1,4 +1,4 @@
-# [Lv.0] 개미 군단
+# 개미 군단
 
 <br>
 
@@ -35,4 +35,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)
+[개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837)

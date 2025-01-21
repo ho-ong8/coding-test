@@ -1,4 +1,4 @@
-# [Lv.0] 암호 해독
+# 암호 해독
 
 <br>
 
@@ -38,4 +38,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)
+[암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892)

@@ -1,4 +1,4 @@
-# [Lv.0] 숫자 비교하기
+# 숫자 비교하기
 
 <br>
 
@@ -35,4 +35,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)
+[숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807)

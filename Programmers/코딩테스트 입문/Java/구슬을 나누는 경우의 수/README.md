@@ -1,4 +1,4 @@
-# [Lv.0] 구슬을 나누는 경우의 수
+# 구슬을 나누는 경우의 수
 
 <br>
 
@@ -40,4 +40,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
+[구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
