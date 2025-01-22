@@ -1,4 +1,4 @@
-# [Lv.0] 등수 매기기
+# 등수 매기기
 
 <br>
 
@@ -34,4 +34,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)
+[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)

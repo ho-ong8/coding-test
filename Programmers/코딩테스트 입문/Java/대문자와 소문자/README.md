@@ -1,4 +1,4 @@
-# [Lv.0] 대문자와 소문자
+# 대문자와 소문자
 
 <br>
 
@@ -31,4 +31,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)
+[대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893)

@@ -1,4 +1,4 @@
-# [Lv.0] 모스부호 (1)
+# 모스부호 (1)
 
 <br>
 
@@ -62,4 +62,4 @@ morse = {
 <br>
 
 ## 링크
-[[Lv.0] 모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
+[모스부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838)
