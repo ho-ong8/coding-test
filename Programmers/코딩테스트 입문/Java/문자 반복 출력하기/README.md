@@ -1,4 +1,4 @@
-# [Lv.0] 문자 반복 출력하기
+# 문자 반복 출력하기
 
 <br>
 
@@ -28,4 +28,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)
+[문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825)

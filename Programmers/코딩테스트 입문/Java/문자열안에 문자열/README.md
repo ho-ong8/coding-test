@@ -1,4 +1,4 @@
-# [Lv.0] 문자열안에 문자열
+# 문자열안에 문자열
 
 <br>
 
@@ -36,4 +36,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908)
+[문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908)

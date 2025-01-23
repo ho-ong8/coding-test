@@ -1,4 +1,4 @@
-# [Lv.0] 문자열 정렬하기 (2)
+# 문자열 정렬하기 (2)
 
 <br>
 
@@ -34,4 +34,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)
+[문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911)
