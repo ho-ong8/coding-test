@@ -1,4 +1,4 @@
-# [Lv.0] 외계어 사전
+# 외계어 사전
 
 <br>
 
@@ -46,4 +46,4 @@ PROGRAMMERS-962 행성에 불시착한 우주비행사 머쓱이는 외계행성
 <br>
 
 ## 링크
-[[Lv.0] 외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
+[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
