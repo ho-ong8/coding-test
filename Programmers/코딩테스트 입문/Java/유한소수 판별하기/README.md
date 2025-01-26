@@ -1,4 +1,4 @@
-# [Lv.0] 유한소수 판별하기
+# 유한소수 판별하기
 
 <br>
 
@@ -46,4 +46,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
+[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
