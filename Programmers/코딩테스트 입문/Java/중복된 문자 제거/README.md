@@ -1,4 +1,4 @@
-# [Lv.0] 중복된 문자 제거
+# 중복된 문자 제거
 
 <br>
 
@@ -34,4 +34,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
+[중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
