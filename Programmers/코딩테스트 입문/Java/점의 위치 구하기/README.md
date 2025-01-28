@@ -1,4 +1,4 @@
-# [Lv.0] 점의 위치 구하기
+# 점의 위치 구하기
 
 <br>
 
@@ -42,4 +42,4 @@ x좌표 (x, y)를 차례대로 담은 정수 배열 `dot`이 매개변수로 주
 <br>
 
 ## 링크
-[[Lv.0] 점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)
+[점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841)
