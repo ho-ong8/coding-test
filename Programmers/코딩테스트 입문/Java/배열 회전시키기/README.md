@@ -1,4 +1,4 @@
-# [Lv.0] 배열 회전시키기
+# 배열 회전시키기
 
 <br>
 
@@ -31,4 +31,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)
+[배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844)
