@@ -1,4 +1,4 @@
-# [Lv.0] 인덱스 바꾸기
+# 인덱스 바꾸기
 
 <br>
 
@@ -33,4 +33,4 @@
 <br>
 
 ## 링크
-[[Lv.0] 인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)
+[인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895)
